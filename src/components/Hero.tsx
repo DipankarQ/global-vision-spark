@@ -5,7 +5,7 @@ import floatingElements from "@/assets/floating-elements.jpg";
 
 const Hero = () => {
   return (
-    <section className="relative min-h-screen flex items-center justify-center overflow-hidden bg-gradient-hero">
+    <section id="home" className="relative min-h-screen flex items-center justify-center overflow-hidden bg-gradient-hero">
       {/* Animated Background */}
       <div 
         className="absolute inset-0 opacity-20 animate-gradient-x"
