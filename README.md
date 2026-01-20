@@ -2,4 +2,5 @@
 This is Landing Page Of Global Trand.
 
 Skills Stack :-
-React Js,
+React, TypeScript.
+React Route
